@@ -54,4 +54,4 @@ For the CLI, you can either give it a single filename argument to read from disk
 
 ## Spec Text
 
-See [http://jeffmo.github.io/es-trailing-function-commas/](http://jeffmo.github.io/es-trailing-function-commas/)
+See [http://tc39.github.io/proposal-trailing-function-commas/](http://tc39.github.io/proposal-trailing-function-commas/)
